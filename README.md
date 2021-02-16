@@ -16,12 +16,13 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <ul>
-<li>Nama    : Chafidhoturrochimah</li>
-<li>Kelas   : MI-2B</li>
-<li>NIM     : 1931710013</li>  
+  <li><b>Nama    : Chafidhoturrochimah</b></li>
+  <li><b>Kelas   : MI-2B</b></li>
+  <li><b>NIM     : 1931710013</b></li>  
 </ul>
 
-Berikut ini latihan praktikum jobsheet 1 :<br>
+<b>Berikut ini latihan praktikum jobsheet 1 :</b><br>
 ![latihan](https://user-images.githubusercontent.com/52942668/108057902-d6b3c900-7085-11eb-8b59-8c13500d7629.jpeg) <br>
 
-Berikut ini tugas praktikum jobsheet 1 :<br>
+<b>Berikut ini tugas praktikum jobsheet 1 :</b><br>
+![tugaspraktikum](https://user-images.githubusercontent.com/52942668/108058578-cf40ef80-7086-11eb-9984-a71d1d93b740.jpeg)
