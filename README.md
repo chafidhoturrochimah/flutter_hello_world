@@ -15,8 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Nama    : Chafidhoturrochimah
-Kelas   : MI-2B
+<br Nama    : Chafidhoturrochimah/>
+<br Kelas   : MI-2B/>
 NIM     : 1931710013
 
 Berikut ini latihan praktikum jobsheet 1 :
